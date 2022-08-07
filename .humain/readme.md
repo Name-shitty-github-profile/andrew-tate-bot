@@ -1,2 +1,2 @@
-# A fucking women made this bot?
-Yes, no other man can code this bot.
+# A nerd made this bot?
+No, I'm not a fucking nerd, I just love to code.
